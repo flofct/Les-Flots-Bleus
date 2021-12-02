@@ -1,0 +1,9 @@
+C:\Users\Florent FICHET\Documents\Cours\B2\Projet C#\LibrairieFlotsBleus\bin\Debug\netstandard2.0\LibrairieFlotsBleus.deps.json
+C:\Users\Florent FICHET\Documents\Cours\B2\Projet C#\LibrairieFlotsBleus\bin\Debug\netstandard2.0\LibrairieFlotsBleus.dll
+C:\Users\Florent FICHET\Documents\Cours\B2\Projet C#\LibrairieFlotsBleus\bin\Debug\netstandard2.0\LibrairieFlotsBleus.pdb
+C:\Users\Florent FICHET\Documents\Cours\B2\Projet C#\LibrairieFlotsBleus\obj\Debug\netstandard2.0\LibrairieFlotsBleus.csprojAssemblyReference.cache
+C:\Users\Florent FICHET\Documents\Cours\B2\Projet C#\LibrairieFlotsBleus\obj\Debug\netstandard2.0\LibrairieFlotsBleus.AssemblyInfoInputs.cache
+C:\Users\Florent FICHET\Documents\Cours\B2\Projet C#\LibrairieFlotsBleus\obj\Debug\netstandard2.0\LibrairieFlotsBleus.AssemblyInfo.cs
+C:\Users\Florent FICHET\Documents\Cours\B2\Projet C#\LibrairieFlotsBleus\obj\Debug\netstandard2.0\LibrairieFlotsBleus.csproj.CoreCompileInputs.cache
+C:\Users\Florent FICHET\Documents\Cours\B2\Projet C#\LibrairieFlotsBleus\obj\Debug\netstandard2.0\LibrairieFlotsBleus.dll
+C:\Users\Florent FICHET\Documents\Cours\B2\Projet C#\LibrairieFlotsBleus\obj\Debug\netstandard2.0\LibrairieFlotsBleus.pdb

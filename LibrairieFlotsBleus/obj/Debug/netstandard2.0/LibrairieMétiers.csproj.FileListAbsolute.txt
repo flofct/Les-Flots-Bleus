@@ -1,0 +1,4 @@
+C:\Users\Florent FICHET\Documents\Cours\B2\Projet C#\PR-Les-Flots-Bleus\LibrairieFlotsBleus\obj\Debug\netstandard2.0\LibrairieMétiers.csprojAssemblyReference.cache
+C:\Users\Florent FICHET\Documents\Cours\B2\Projet C#\PR-Les-Flots-Bleus\LibrairieFlotsBleus\obj\Debug\netstandard2.0\LibrairieMétiers.AssemblyInfoInputs.cache
+C:\Users\Florent FICHET\Documents\Cours\B2\Projet C#\PR-Les-Flots-Bleus\LibrairieFlotsBleus\obj\Debug\netstandard2.0\LibrairieMétiers.AssemblyInfo.cs
+C:\Users\Florent FICHET\Documents\Cours\B2\Projet C#\PR-Les-Flots-Bleus\LibrairieFlotsBleus\obj\Debug\netstandard2.0\LibrairieMétiers.csproj.CoreCompileInputs.cache
